@@ -1,0 +1,2 @@
+# SmartCart
+AI Shopping Assistant
